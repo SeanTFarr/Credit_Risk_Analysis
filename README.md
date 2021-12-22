@@ -1,7 +1,8 @@
-# Credit_risk_analysis
+
+<img src=Images\credit_risk.jpg>
 
 ## Overview of the loan prediction risk analysis: 
-Explain the purpose of the loan prediction risk analysis.
+The purpose of this analysis is to evaluate the performance of 6 machine learning models and make a written recommendation on whether they should be used to predict credit risk.
 
 ## Results: 
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
